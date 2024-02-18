@@ -5,10 +5,10 @@
 * Cleaning and Preparing Data.
 * Making Predictions.
 * Measuring Error and Improving Predictions.
-##Files
+#Files
 * `scraping.ipynb` - a Jupyter notebook that scrapes  data.
 * `predictions.ipynb` - a Jupyter notebook that makes predictions.
-##Local Setup
+#Local Setup
 * JupyterLab
 * Python 3.8+
 * Python packages
